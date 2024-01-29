@@ -1,3 +1,7 @@
+![Table](https://github.com/santude1997/barchart/assets/62021656/e5448ac5-e3ee-4c42-a924-7210a5a98711)
+![LineChart](https://github.com/santude1997/barchart/assets/62021656/9fac18e1-1005-4e26-95f9-8e97c27af682)
+![BarChart](https://github.com/santude1997/barchart/assets/62021656/392555d9-fdb2-442c-82a2-3e19ea05cdfd)
+![AreaChart](https://github.com/santude1997/barchart/assets/62021656/327df297-359d-48f3-a6a4-907b9706c04c)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
