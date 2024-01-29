@@ -1,0 +1,37 @@
+[
+  {
+    "name": "HTML",
+    "student": 13,
+    "fees": 10
+  },
+  {
+    "name": "CSS",
+    "student": 15,
+    "fees": 12
+  },
+  {
+    "name": "JavaScript",
+    "student": 5,
+    "fees": 10
+  },
+  {
+    "name": "TypeScript",
+    "student": 10,
+    "fees": 5
+  },
+  {
+    "name": "React",
+    "student": 9,
+    "fees": 4
+  },
+  {
+    "name": "Node",
+    "student": 8,
+    "fees": 8
+  },
+  {
+    "name": "Express",
+    "student": 7,
+    "fees": 8
+  }
+]
